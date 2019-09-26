@@ -1,6 +1,8 @@
 QtEffects
 ---------
 
+https://github.com/Gautier/QtEffects
+
 What a cute name :)
 
 A tiny Qt C++ library to make small graphic effects on widgets.
